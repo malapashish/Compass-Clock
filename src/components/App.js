@@ -42,7 +42,7 @@ class App extends Component {
                 <header className="App-header">
                     <div className='msg'>
                         <div className='year'>
-                            <h1 className="title">Compass Clock</h1>
+                            <h1 className="title">Compas Clock</h1>
                             <span>
                                 {this.state.year}
                             </span>
